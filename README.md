@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madlen Nistorova 
 - 👀 I’m interested in Full-Stack Development 
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning Java, JavaScript and HTML
 - 📫 How to reach me: maginistorova@abv.bg 
 
 <!---
