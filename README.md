@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Madlen Nistorova 
-- 👀 I’m interested in Full-Stack Development 
-- 🌱 I’m currently learning Java, JavaScript and HTML
-- 📫 How to reach me: maginistorova@abv.bg 
-
-<!---
-maginistorova/maginistorova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in full-stack and Android developemnt. Currently building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
